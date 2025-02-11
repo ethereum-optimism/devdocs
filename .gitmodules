@@ -6,4 +6,4 @@
 	url = https://github.com/ethereum-optimism/pm.git
 [submodule "submodules/kona"]
 	path = submodules/kona
-	url = git@github.com:op-rs/kona.git
+	url = https://github.com/op-rs/kona.git
