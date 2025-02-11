@@ -4,3 +4,6 @@
 [submodule "submodules/pm"]
 	path = submodules/pm
 	url = https://github.com/ethereum-optimism/pm.git
+[submodule "submodules/kona"]
+	path = submodules/kona
+	url = https://github.com/op-rs/kona.git

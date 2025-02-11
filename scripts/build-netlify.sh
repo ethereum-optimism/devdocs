@@ -12,7 +12,7 @@ curl -L https://github.com/rust-lang/mdBook/releases/download/v0.4.44/mdbook-v0.
 mv mdbook "$HOME/.cargo/bin"
 
 echo "Installing mdbook-mermaid.."
-cargo install mdbook-mermaid
+cargo install mdbook-mermaid mdbook-template
 
 echo "Installing uv..."
 curl -LsSf https://astral.sh/uv/install.sh | sh
